@@ -36,3 +36,40 @@ This hybrid model ensures open access, collaboration, and ethical boundaries.
 ---
 
 📌 _For questions or usage requests beyond standard terms, reach out via repository contact or issues section._
+
+
+
+
+# License Combo Structure (Apache 2.0 + CC BY-NC-SA 4.0)
+
+This repository adopts a dual-license model to cover different types of content:
+
+---
+
+## 🔹 Code and Core Architecture
+
+- **License**: Apache License 2.0
+- **Applies To**: All software code, model architecture files, simulation scripts, and README.md
+- **Location**: Root level `LICENSE` file
+
+---
+
+## 🔸 Reflective Content and Dataset
+
+- **License**: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 (CC BY-NC-SA 4.0)
+- **Applies To**: All writings, reflective prompts, emotionally-aligned dialogues, and ethically curated datasets
+- **Location**: `docs/CC-BY-NC-SA-4.0.md`
+
+---
+
+## 📌 Summary
+
+| Content Type             | License        | Editable? | Commercial Use? |
+|--------------------------|----------------|-----------|-----------------|
+| Code, scripts, models    | Apache 2.0     | ✅ Yes    | ✅ Yes          |
+| Reflections, writings    | CC BY-NC-SA 4.0| ✅ Yes    | ❌ No           |
+
+---
+
+This structure ensures open collaboration on code while ethically safeguarding reflective contributions.
+
