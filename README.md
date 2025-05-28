@@ -35,7 +35,15 @@ This project is in early phase (V1). We're actively designing, reflecting, and c
 This project is deeply personal and experimental. If you resonate with the vision and want to help evolve this — philosophically or technically — you're welcome.
 
 ## 📜 License
-Will be finalized after internal iterations (likely MIT or Creative Commons).
-
 ---
+
+## 🛡 License Overview
+
+This repository uses a **dual-license model**:
+
+- 🧠 **Code and ML Architecture**: Licensed under the [Apache License 2.0](./LICENSE)
+- 🧘 **Reflective Writings and Datasets**: Licensed under [CC BY-NC-SA 4.0](./docs/CC-BY-NC-SA-4.0.md)
+
+More info: [License Combo Info](./docs/license_combo_info.md)
+
 🪞 "To reflect is to pause, feel, and realign — and maybe, just maybe, build a better mirror."
