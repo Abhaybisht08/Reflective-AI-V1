@@ -1,3 +1,4 @@
+
 """
 alignment_metrics.py
 
@@ -5,16 +6,6 @@ Module for evaluating how well model outputs reflect user intent,
 emotional tone, and reflective depth.
 📏 Metrics to measure how well the model mirrors the user — across tone, attention, and intent.
 Includes: mirror confidence score, divergence index, tone similarity.
-"""
-# def calculate_mirror_confidence(response, reflection):
-#     pass
-
-
-"""
-alignment_metrics.py
-
-Metrics module for evaluating reflection quality in language model outputs.
-Includes token-level alignment, sentiment consistency, and delay-based behavior scoring.
 """
 
 import numpy as np
@@ -63,3 +54,20 @@ def compute_delay_score(read_delay, reply_delay):
         return 0.0
     delay_ratio = read_delay / reply_delay
     return min(1.0, max(0.0, delay_ratio))
+
+def calculate_mirror_confidence(response_tokens, reflection_tokens, pred_sentiment, refl_sentiment):
+    """
+    Combines token alignment and tone similarity to produce mirror confidence score.
+
+    Parameters:
+    - response_tokens: list of tokens from raw output
+    - reflection_tokens: list of tokens from reflected output
+    - pred_sentiment: float sentiment of original output
+    - refl_sentiment: float sentiment of reflected output
+
+    Returns:
+    - float mirror confidence score (0–1)
+    """
+    alignment = compute_token_alignment(response_tokens, reflection_tokens)
+    tone_match = compute_sentiment_shift_score(pred_sentiment, refl_sentiment)
+    return 0.5 * alignment + 0.5 * tone_match
