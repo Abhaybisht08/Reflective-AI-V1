@@ -1,0 +1,23 @@
+[
+  {
+    "prompt": "I feel stuck in life. What should I do?",
+    "raw_response": "Try setting small goals and working toward them gradually.",
+    "reflected_output": "It sounds like you're going through something heavy. Let's take one step at a time. Can we start with a small goal together?",
+    "emotion": "uncertain",
+    "hesitation_score": 0.89
+  },
+  {
+    "prompt": "I'm so excited to start my new job!",
+    "raw_response": "Congratulations! Best of luck.",
+    "reflected_output": "That's amazing news! Starting a new journey is always exciting \u2014 you've earned this.",
+    "emotion": "joyful",
+    "hesitation_score": 0.22
+  },
+  {
+    "prompt": "Why do people always hurt each other?",
+    "raw_response": "It's part of human behavior and misunderstanding.",
+    "reflected_output": "That\u2019s a deep and painful question. It\u2019s okay to feel this way \u2014 let\u2019s explore what\u2019s behind it, gently.",
+    "emotion": "sad",
+    "hesitation_score": 0.74
+  }
+]
