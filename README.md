@@ -8,7 +8,7 @@ Inspired by human-centered insights, the project aims to go beyond attention-bas
 
 ## 📚 Documentation Index
 
-- [🧾 Terminology Definition](doc/ReflectiveAI_Terminology_Definition.md)  
+- [🧾 Terminology Definition](docs/ReflectiveAI_Terminology_Definition.md)  
   *Key terms like Reflection Layer, Mirror Confidence, Soul Layer, TRP, and EBR defined clearly.*
 
 - [🧠 System Design Diagrams (Coming Soon)](doc/architecture_map.md)  
