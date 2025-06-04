@@ -101,7 +101,7 @@ This repository uses a **dual-license model**:
 - 🧠 **Code and ML Architecture:** [Apache License 2.0](LICENSE.md)  
 - 🧘 **Reflective Writings and Datasets:** [CC BY-NC-SA 4.0](docs/CC-BY-NC-SA-4.0.md)
 
-More info: [License Combo Info](/doc/license_combo_info.md)
+More info: [License Combo Info](/docs/license_combo_info.md)
 
 ---
 
