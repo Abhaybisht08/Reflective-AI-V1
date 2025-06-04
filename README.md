@@ -98,8 +98,8 @@ If you resonate with the **vision of emotionally grounded AI** and want to contr
 
 This repository uses a **dual-license model**:
 
-- 🧠 **Code and ML Architecture:** [Apache License 2.0](./LICENSE)  
-- 🧘 **Reflective Writings and Datasets:** [CC BY-NC-SA 4.0](./doc/CC-BY-NC-SA-4.0.md)
+- 🧠 **Code and ML Architecture:** [Apache License 2.0](/LICENSE)  
+- 🧘 **Reflective Writings and Datasets:** [CC BY-NC-SA 4.0](docs/CC-BY-NC-SA-4.0.md)
 
 More info: [License Combo Info](./doc/license_combo_info.md)
 
