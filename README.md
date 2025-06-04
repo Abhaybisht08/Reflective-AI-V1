@@ -11,10 +11,10 @@ Inspired by human-centered insights, the project aims to go beyond attention-bas
 - [🧾 Terminology Definition](docs/ReflectiveAI_Terminology_Definition.md)  
   *Key terms like Reflection Layer, Mirror Confidence, Soul Layer, TRP, and EBR defined clearly.*
 
-- [🧠 System Design Diagrams (Coming Soon)](doc/architecture_map.md)  
+- [🧠 System Design Diagrams (Coming Soon)](docs/architecture_map.md)  
   *Architecture flow for inference and dataset pipelines*
 
-- [📊 Dataset Structure & Flow (Coming Soon)](doc/dataset_pipeline.md)  
+- [📊 Dataset Structure & Flow (Coming Soon)](docs/dataset_pipeline.md)  
   *Prompt → Response → Reflection → Tags → Scores → Metadata*
 
 ---
