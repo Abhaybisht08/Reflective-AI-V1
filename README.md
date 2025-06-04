@@ -17,6 +17,9 @@ Inspired by human-centered insights, the project aims to go beyond attention-bas
 - [📊 Dataset Structure & Flow (Coming Soon)](docs/dataset_pipeline.md)  
   *Prompt → Response → Reflection → Tags → Scores → Metadata*
 
+  - [📚 Related Works](doc/related_works.md)
+
+
 ---
 
 ## 🌱 Project Vision
@@ -61,6 +64,7 @@ Reflective-AI-V1/
 │   └── test_scenarios.py
 └── doc/                             # Glossary, diagrams, papers, licensing
     ├── ReflectiveAI_Terminology_Definition.md
+    ├── related_works.md # Papers and prior inspiration sources
     ├── architecture_map.md          # [Coming Soon]
     └── dataset_pipeline.md          # [Coming Soon]
 ```
