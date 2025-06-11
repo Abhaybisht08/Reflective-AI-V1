@@ -1,0 +1,1 @@
+# Scores mirror alignment between prompt and response.

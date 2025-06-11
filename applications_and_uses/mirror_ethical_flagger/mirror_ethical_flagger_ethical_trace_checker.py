@@ -1,0 +1,1 @@
+# Detects emotional-ethical mismatches in AI responses.
