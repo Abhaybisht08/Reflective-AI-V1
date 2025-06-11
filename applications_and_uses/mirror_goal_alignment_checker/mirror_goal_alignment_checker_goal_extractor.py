@@ -1,0 +1,1 @@
+# Extracts stated goals from user prompts or dialogues.

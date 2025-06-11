@@ -1,0 +1,1 @@
+# Compares goal expression with emotional trace for alignment.
