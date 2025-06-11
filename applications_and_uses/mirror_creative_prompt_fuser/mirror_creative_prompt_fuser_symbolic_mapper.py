@@ -1,0 +1,1 @@
+# Maps emotional state to symbolic/metaphoric language.

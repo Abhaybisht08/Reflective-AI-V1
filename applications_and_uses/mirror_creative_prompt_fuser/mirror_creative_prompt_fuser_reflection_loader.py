@@ -1,0 +1,1 @@
+# Loads reflective emotional state from user memory.
