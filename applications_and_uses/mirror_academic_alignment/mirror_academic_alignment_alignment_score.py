@@ -1,0 +1,1 @@
+# Compares applicant_vector and lab_vector using cosine similarity.
