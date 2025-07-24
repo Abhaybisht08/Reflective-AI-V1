@@ -62,6 +62,9 @@ Reflective-AI-V1/
 │   │   └── reflective_dataset_demo.json
 │   └── full/
 │       └── reflective_dataset_v1.json
+├── demo/                            # Colab-ready user-facing demo
+│   ├── Reflective_AI_Demo.ipynb
+│   └── README.md
 ├── scripts/                         # Data prep, demo pipeline, finetune scripts
 │   ├── prepare_finetune_data.py
 │   ├── lora_finetune_reflective.py
@@ -71,9 +74,10 @@ Reflective-AI-V1/
 │   └── test_scenarios.py
 └── doc/                             # Glossary, diagrams, papers, licensing
     ├── ReflectiveAI_Terminology_Definition.md
-    ├── related_works.md # Papers and prior inspiration sources
+    ├── related_works.md             # Papers and prior inspiration sources
     ├── architecture_map.md          # [Coming Soon]
     └── dataset_pipeline.md          # [Coming Soon]
+
 ```
 
 ---
