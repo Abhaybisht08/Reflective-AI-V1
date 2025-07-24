@@ -41,6 +41,13 @@ Built from philosophical reflections, emotional experiences, and system-level ob
 
 ## 📁 Repository Structure
 
+📁 Repository Structure
+⬇️
+🧪 Try the Reflective-AI Demo
+⬇️
+🚧 Project Status
+
+
 ```
 Reflective-AI-V1/
 ├── README.md                         # Project overview and mirror logic intro
