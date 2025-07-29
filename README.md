@@ -19,7 +19,7 @@ Inspired by human-centered insights, the project aims to go beyond attention-bas
 
   - [📚 Related Works](docs/related_works.md)
  
-  - [🪞 The Missing Half of Intent — Response to “The New Code”](docs/TheMissingHalfOfIntent.md)  
+  - [🪞 The Missing Half of Intent — Response to “The New Code”](docs/the_missing_half_of_intent.md)  
   *A personal and philosophical mirror reflection on Sean Grove’s spec-driven AI vision.*
 
 
