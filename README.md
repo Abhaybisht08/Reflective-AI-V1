@@ -76,8 +76,9 @@ Reflective-AI-V1/
     ├── ReflectiveAI_Terminology_Definition.md
     ├── related_works.md             # Papers and prior inspiration sources
     ├── architecture_map.md          # [Coming Soon]
-    └── dataset_pipeline.md          # [Coming Soon]
+    └── dataset_pipeline.md
 
+  
 ```
 
 ---
