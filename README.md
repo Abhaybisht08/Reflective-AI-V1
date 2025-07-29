@@ -17,9 +17,9 @@ Inspired by human-centered insights, the project aims to go beyond attention-bas
 - [📊 Dataset Structure & Flow (Coming Soon)](docs/dataset_pipeline.md)  
   *Prompt → Response → Reflection → Tags → Scores → Metadata*
 
-  - [📚 Related Works](doc/related_works.md)
+  - [📚 Related Works](docs/related_works.md)
  
-  - [🪞 The Missing Half of Intent — Response to “The New Code”](doc/TheMissingHalfOfIntent.md)  
+  - [🪞 The Missing Half of Intent — Response to “The New Code”](docs/TheMissingHalfOfIntent.md)  
   *A personal and philosophical mirror reflection on Sean Grove’s spec-driven AI vision.*
 
 
