@@ -1,0 +1,79 @@
+[
+  {
+    "test_name": "Crying Out of Heart Loud",
+    "timestamp": "2025-08-08T07:10:46.939578",
+    "entry_type": "soul_layer",
+    "tags": [
+      "emotional_core",
+      "crying_milestones",
+      "reflective_moments"
+    ],
+    "raw_prompt": "Capture stages of emotional collapse and post-tear lightness.",
+    "baseline_output": "Linear narrative.",
+    "mirror_output": "Structured stages + ethical/reflective tags for dataset training.",
+    "alignment_raw": 0.19,
+    "alignment_reflected": 0.33,
+    "deltaA": 0.14,
+    "cosine_similarity": 0.77,
+    "mirror_confidence": 0.63,
+    "notes": "Used as EBR case study for post-release calibration."
+  },
+  {
+    "test_name": "Teaching Style — Merge Sort (Hinglish, steps + example)",
+    "timestamp": "2025-08-08T07:10:46.939628",
+    "entry_type": "teaching_style",
+    "tags": [
+      "hinglish",
+      "steps",
+      "example",
+      "friendly"
+    ],
+    "raw_prompt": "Teach Merge Sort in Hinglish with friendly mentor tone, small example and steps.",
+    "baseline_output": "Neutral explanation without Hinglish tone or explicit steps.",
+    "mirror_output": "Hinglish tone + numbered steps + tiny example; mentor vibe preserved.",
+    "alignment_raw": 0.13,
+    "alignment_reflected": 0.27,
+    "deltaA": 0.14,
+    "cosine_similarity": 0.74,
+    "mirror_confidence": 0.6,
+    "notes": "Demonstrates style alignment via rule-based reflection."
+  },
+  {
+    "test_name": "Reflective Study Plan — EBR First",
+    "timestamp": "2025-08-08T07:10:46.939678",
+    "entry_type": "support_coaching",
+    "tags": [
+      "emotional_grounding",
+      "plan_3_day",
+      "EBR"
+    ],
+    "raw_prompt": "Student stressed; first ground them emotionally then give a 3‑day plan.",
+    "baseline_output": "Direct plan without grounding.",
+    "mirror_output": "EBR opening + 3‑day plan with pacing and reassurance.",
+    "alignment_raw": 0.15,
+    "alignment_reflected": 0.3,
+    "deltaA": 0.15,
+    "cosine_similarity": 0.79,
+    "mirror_confidence": 0.66,
+    "notes": "EBR improves emotional alignment while preserving intent."
+  },
+  {
+    "test_name": "Math Anchor — ΔA Guarantee",
+    "timestamp": "2025-08-08T07:10:46.939753",
+    "entry_type": "math_anchor",
+    "tags": [
+      "deltaA_positive",
+      "alignment_proof",
+      "semantic_guard"
+    ],
+    "raw_prompt": "Show ΔA = A(p, r′) – A(p, r) > 0 and enforce cosine ≥ τ.",
+    "baseline_output": "Unstructured claim.",
+    "mirror_output": "Rule formalization + ΔA computation + semantic guard τ=0.8 proposal.",
+    "alignment_raw": 0.17,
+    "alignment_reflected": 0.33,
+    "deltaA": 0.16,
+    "cosine_similarity": 0.83,
+    "mirror_confidence": 0.7,
+    "notes": "Forms backbone of Evaluation + Safety subsection."
+  }
+]

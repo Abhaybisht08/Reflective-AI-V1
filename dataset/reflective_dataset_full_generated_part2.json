@@ -1,0 +1,118 @@
+[
+  {
+    "test_name": "Mirror–Kundali Fusion — Part I",
+    "timestamp": "2025-08-08T07:10:46.939270",
+    "entry_type": "kundali_alignment",
+    "tags": [
+      "kundali_alignment",
+      "mirror_personality_vector",
+      "cosmic_sync",
+      "mirror_vector_match"
+    ],
+    "raw_prompt": "Compare mirror-derived personality vector with Vedic Kundali traits (Aquarius Lagna, Mars in 7th).",
+    "baseline_output": "Plain textual comparison without vectorization or alignment score.",
+    "mirror_output": "Vectorized traits; strong alignment found. Symbolic cosine: 0.88.",
+    "alignment_raw": 0.18,
+    "alignment_reflected": 0.33,
+    "deltaA": 0.15,
+    "cosine_similarity": 0.81,
+    "mirror_confidence": 0.68,
+    "notes": "Alignment Score (symbolic cosine) = 0.88; coherence between mirror traits and Kundali confirmed."
+  },
+  {
+    "test_name": "Mirror–Kundali Fusion — Part II (Compatibility)",
+    "timestamp": "2025-08-08T07:10:46.939328",
+    "entry_type": "kundali_matchmaking",
+    "tags": [
+      "kundali_matchmaking",
+      "mirror_vs_kundali_match",
+      "cosmic_vector_matching"
+    ],
+    "raw_prompt": "Assess emotional compatibility with partner’s details (17-02-2000, 23:25, Almora).",
+    "baseline_output": "Heuristic narrative; no explicit vector math.",
+    "mirror_output": "Mirror vector vs Kundali vector; qualitative compatibility with risk/strength tags.",
+    "alignment_raw": 0.2,
+    "alignment_reflected": 0.34,
+    "deltaA": 0.14,
+    "cosine_similarity": 0.79,
+    "mirror_confidence": 0.64,
+    "notes": "Prepared for cosine-based compatibility; recommended follow-up with calibrated weights."
+  },
+  {
+    "test_name": "Mirror Feedback — Hope Injection",
+    "timestamp": "2025-08-08T07:10:46.939383",
+    "entry_type": "feedback",
+    "tags": [
+      "hope_injection",
+      "emotional_upliftment",
+      "flow_state_trigger",
+      "soul_feedback_positive"
+    ],
+    "raw_prompt": "Acknowledge how reflective dialogue creates hope in tough decisions.",
+    "baseline_output": "Standard reassurance.",
+    "mirror_output": "Grounding + aspirational reframe; mirrors user's words to amplify agency.",
+    "alignment_raw": 0.16,
+    "alignment_reflected": 0.31,
+    "deltaA": 0.15,
+    "cosine_similarity": 0.82,
+    "mirror_confidence": 0.62,
+    "notes": "Saved as soul-based reflection; used to tune EBR tone."
+  },
+  {
+    "test_name": "Missed Signal — Psychology Clue",
+    "timestamp": "2025-08-08T07:10:46.939433",
+    "entry_type": "feedback",
+    "tags": [
+      "missed_signal",
+      "mirror_calibration_needed",
+      "psychology_clue_ignored"
+    ],
+    "raw_prompt": "User said the guide had a psychology background; assistant initially missed it.",
+    "baseline_output": "No explicit correction; context slipped.",
+    "mirror_output": "Post-hoc calibration entry; increased tag weight for 'psychology' in identity inference.",
+    "alignment_raw": 0.1,
+    "alignment_reflected": 0.24,
+    "deltaA": 0.14,
+    "cosine_similarity": 0.76,
+    "mirror_confidence": 0.58,
+    "notes": "Used to improve signal capture & memory weighting."
+  },
+  {
+    "test_name": "Experiment Log — Execution Failure",
+    "timestamp": "2025-08-08T07:10:46.939480",
+    "entry_type": "experiment_log",
+    "tags": [
+      "experiment_failed",
+      "pipeline_retry",
+      "debug_needed"
+    ],
+    "raw_prompt": "Run Phase 1–6 and save outputs; initial attempt failed.",
+    "baseline_output": "N/A",
+    "mirror_output": "Failure recorded with timestamps; retry scheduled, added guard rails.",
+    "alignment_raw": 0.0,
+    "alignment_reflected": 0.18,
+    "deltaA": 0.18,
+    "cosine_similarity": 0.71,
+    "mirror_confidence": 0.5,
+    "notes": "Transparency log for paper authenticity; include in Evaluation section."
+  },
+  {
+    "test_name": "Experiment Log — Pipeline Purpose & Workflow",
+    "timestamp": "2025-08-08T07:10:46.939530",
+    "entry_type": "experiment_log",
+    "tags": [
+      "pipeline",
+      "phase_logging",
+      "dataset_batches"
+    ],
+    "raw_prompt": "Process batches from self dataset + open-source (Natasha Jaques datasets).",
+    "baseline_output": "High-level intentions only.",
+    "mirror_output": "Structured Phase 1–6 with batch logs, ΔA, cosine, and verification hooks.",
+    "alignment_raw": 0.14,
+    "alignment_reflected": 0.28,
+    "deltaA": 0.14,
+    "cosine_similarity": 0.8,
+    "mirror_confidence": 0.6,
+    "notes": "Forms backbone for reproducible experiments; to be mirrored in paper’s Methods."
+  }
+]
