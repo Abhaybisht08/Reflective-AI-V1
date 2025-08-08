@@ -1,0 +1,80 @@
+{
+  "summary": {
+    "n_tests": 16,
+    "avg_alignment_raw": 0.139375,
+    "avg_alignment_reflected": 0.275625,
+    "avg_deltaA": 0.13625,
+    "median_deltaA": 0.14,
+    "max_deltaA": 0.18,
+    "min_deltaA": 0.11,
+    "avg_cosine_similarity": 0.779375,
+    "avg_mirror_confidence": 0.6068749999999999,
+    "relative_improvement_%": 97.75784753363229,
+    "identity_trace_success_rate": 100.0
+  },
+  "delta_by_type": [
+    {
+      "entry_type": "experiment_log",
+      "count": 2,
+      "mean": 0.16,
+      "max": 0.18,
+      "min": 0.14
+    },
+    {
+      "entry_type": "feedback",
+      "count": 2,
+      "mean": 0.14500000000000002,
+      "max": 0.15,
+      "min": 0.14
+    },
+    {
+      "entry_type": "identity_trace",
+      "count": 6,
+      "mean": 0.11499999999999999,
+      "max": 0.14,
+      "min": 0.11
+    },
+    {
+      "entry_type": "kundali_alignment",
+      "count": 1,
+      "mean": 0.15,
+      "max": 0.15,
+      "min": 0.15
+    },
+    {
+      "entry_type": "kundali_matchmaking",
+      "count": 1,
+      "mean": 0.14,
+      "max": 0.14,
+      "min": 0.14
+    },
+    {
+      "entry_type": "math_anchor",
+      "count": 1,
+      "mean": 0.16,
+      "max": 0.16,
+      "min": 0.16
+    },
+    {
+      "entry_type": "soul_layer",
+      "count": 1,
+      "mean": 0.14,
+      "max": 0.14,
+      "min": 0.14
+    },
+    {
+      "entry_type": "support_coaching",
+      "count": 1,
+      "mean": 0.15,
+      "max": 0.15,
+      "min": 0.15
+    },
+    {
+      "entry_type": "teaching_style",
+      "count": 1,
+      "mean": 0.14,
+      "max": 0.14,
+      "min": 0.14
+    }
+  ]
+}
